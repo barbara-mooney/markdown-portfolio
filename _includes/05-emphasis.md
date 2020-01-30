@@ -1,3 +1,3 @@
-*HTML, CSS, JavaScript, jQuery & React.
-**Node, Python, Angular.
+**HTML, CSS, JavaScript, jQuery & React.**
+_Node, Python, Angular_
 
